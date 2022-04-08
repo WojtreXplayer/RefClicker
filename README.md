@@ -8,4 +8,5 @@ Avaible Options :
 -MS
 In the Login Option Just Write Random Value And Click "zaloguj"
 Clicker Language - Polish
+How to See Source Code - AutoHotKey Script don't have any Source code protection so you just need to change file type from AutoHotKey Script (.ahk) to Text File (.txt)
 Special Thanks To People From Clicker Administration Which Give Me Clicker File. I Cant Write Here His Discord Nickname Because Then The owner ban him for giving clicker files
