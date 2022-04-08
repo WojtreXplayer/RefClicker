@@ -1,5 +1,5 @@
 # RefClicker
-The One of Versions Of Popular Clicker Made By 「♡」𝕶𝖆𝖘𝖍𝖆𝖓𝕶𝖌𝖘𝕲𝖔𝖔𝖉「♡」#6603
+The One of the Versions Of Popular Clicker Made By 「♡」𝕶𝖆𝖘𝖍𝖆𝖓𝕶𝖌𝖘𝕲𝖔𝖔𝖉「♡」#6603
 Avaible Options : 
 -Macro
 -PVP
